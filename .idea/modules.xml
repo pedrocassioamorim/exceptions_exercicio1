@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Execoes_personalizadas_exerc1.iml" filepath="$PROJECT_DIR$/Execoes_personalizadas_exerc1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Solucao1_mt-ruim/Solucao1_mt-ruim.iml" filepath="$PROJECT_DIR$/Solucao1_mt-ruim/Solucao1_mt-ruim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Solucao2_ruim/Solucao2_ruim.iml" filepath="$PROJECT_DIR$/Solucao2_ruim/Solucao2_ruim.iml" />
     </modules>
   </component>
 </project>
